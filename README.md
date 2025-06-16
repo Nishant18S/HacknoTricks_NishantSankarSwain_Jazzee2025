@@ -41,7 +41,7 @@ Powered by **Bhashini APIs**, NLP, and retrieval-based Gen-AI, JanAI Mitra makes
 - `HacknoTricks_NishantSankarSwain_Jazzee2025_Document.pdf`  
   → 3-page framework document outlining the problem, Gen-AI use case, workflow, and expected impact  
 - `HacknoTricks_NishantSankarSwain_Jazzee2025_PitchVideo`  
-  → YouTube video pitch link: [🔗 ![Introducing](https://github.com/user-attachments/assets/d8291b43-5afe-495c-bcb3-976e62f7348f)](https://youtu.be/cmVgAenM6qA)]
+  → YouTube video pitch link: [![Introducing](https://github.com/user-attachments/assets/d8291b43-5afe-495c-bcb3-976e62f7348f)](https://youtu.be/cmVgAenM6qA)
 
 
 
