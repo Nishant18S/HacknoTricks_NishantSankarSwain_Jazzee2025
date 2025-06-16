@@ -1,4 +1,4 @@
-# 🏛️ 𝙷𝚊𝚌𝚔𝚗𝚘𝚃𝚛𝚒𝚌𝚔𝚜_TeamLeader_Jazzee2025
+# 🏛️ 𝙷𝚊𝚌𝚔𝚗𝚘𝚃𝚛𝚒𝚌𝚔𝚜_NishantSankarSwain_Jazzee2025
 
 **Challenge Track:** Governance  
 **Level:** Intermediate  
@@ -29,8 +29,8 @@ This conversational agent ensures inclusive access, empowers citizens, and stren
 
 ## 📂 Repository Contents
 
-- `𝙷𝚊𝚌𝚔𝚗𝚘𝚃𝚛𝚒𝚌𝚔𝚜_TeamLeader_Jazzee2025_Document.pdf` – Project documentation (idea, framework, originality)
-- `𝙷𝚊𝚌𝚔𝚗𝚘𝚃𝚛𝚒𝚌𝚔𝚜_TeamLeader_Jazzee2025_PitchVideo` – YouTube link: [Insert Video URL Here]
+- `𝙷𝚊𝚌𝚔𝚗𝚘𝚃𝚛𝚒𝚌𝚔𝚜_NishantSankarSwain_Jazzee2025_Document.pdf` – Project documentation (idea, framework, originality)
+- `𝙷𝚊𝚌𝚔𝚗𝚘𝚃𝚛𝚒𝚌𝚔𝚜_NishantSankarSwain_Jazzee2025_PitchVideo` – YouTube link: [Insert Video URL Here]
 
 ## 📌 Submission Notes
 
