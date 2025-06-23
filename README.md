@@ -52,20 +52,29 @@ Built using **Bhashini APIs**, NLP, and RAG (Retrieval-Augmented Generation), Ja
 ### 🔗 Deployed Platform  
 🌍 [https://jan-ai-mitra.vercel.app](https://jan-ai-mitra.vercel.app)
 
+## 🎥 Demo & Presentation
+
 ### 📂 YouTube Playlist  
-🎬 [Jan-AI Mitra | GenAI-Powered Public Service Platform](https://youtube.com/playlist?list=PL7bFEvZGTxb6o61wzhrCoMXdtCE7NboRA&si=hCAH1qkDsx20O2WA)
+🎬 **Jan-AI Mitra | GenAI-Powered Public Service Platform**  
+▶️ [Watch the Playlist](https://youtube.com/playlist?list=PL7bFEvZGTxb6o61wzhrCoMXdtCE7NboRA&si=hCAH1qkDsx20O2WA)
 
-### 📽️ Introduction Video  
-[![Watch Introduction](https://img.youtube.com/vi/7-lWhmJZ8-Y/hqdefault.jpg)](https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6)
-
-▶️ [https://youtu.be/7-lWhmJZ8-Y]([https://youtu.be/7-lWhmJZ8-Y](https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6))
-
-### 🛠️ Working Prototype Demo  
-[![Watch Demo](https://img.youtube.com/vi/cmVgAenM6qA/hqdefault.jpg)](https://youtu.be/E6NS1wZqEPM?si=o5V6V6FK5M_BgqcY)
-
-▶️ [https://youtu.be/cmVgAenM6qA?si=KI5wBz8tLL_LbULx](https://youtu.be/cmVgAenM6qA?si=KI5wBz8tLL_LbULx)
+![Team - HacknoTricks Working Prototype](https://github.com/user-attachments/assets/3f9567e7-9be8-450e-84e3-45cefec42327)
+![Team - HacknoTricks Introduction](https://github.com/user-attachments/assets/374b08ca-563b-4736-8741-28478319b76b)
 
 ---
+
+### 📽️ Introduction Video  
+[![Watch Introduction](https://img.youtube.com/vi/7qeuhPtNc9c/hqdefault.jpg)](https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6)
+
+▶️ **Watch Here:** [https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6](https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6)
+
+---
+
+### 🛠️ Working Prototype Demo  
+[![Watch Demo](https://img.youtube.com/vi/E6NS1wZqEPM/hqdefault.jpg)](https://youtu.be/E6NS1wZqEPM?si=o5V6V6FK5M_BgqcY)
+
+▶️ **Watch Here:** [https://youtu.be/E6NS1wZqEPM?si=o5V6V6FK5M_BgqcY](https://youtu.be/E6NS1wZqEPM?si=o5V6V6FK5M_BgqcY)
+
 
 ## 🧱 Tech Stack
 
