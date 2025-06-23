@@ -49,16 +49,13 @@ Built using **Bhashini APIs**, NLP, and RAG (Retrieval-Augmented Generation), Ja
 
 ## 🎥 Demo & Presentation
 
-### 🔗 Deployed Platform  
-🌍 [https://jan-ai-mitra.vercel.app](https://jan-ai-mitra.vercel.app)
-
-## 🎥 Demo & Presentation
-
 ### 📂 YouTube Playlist  
 🎬 **Jan-AI Mitra | GenAI-Powered Public Service Platform**  
 ▶️ [Watch the Playlist](https://youtube.com/playlist?list=PL7bFEvZGTxb6o61wzhrCoMXdtCE7NboRA&si=hCAH1qkDsx20O2WA)
 
 ![Team - HacknoTricks Working Prototype](https://github.com/user-attachments/assets/3f9567e7-9be8-450e-84e3-45cefec42327)
+
+
 ![Team - HacknoTricks Introduction](https://github.com/user-attachments/assets/374b08ca-563b-4736-8741-28478319b76b)
 
 ---
