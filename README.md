@@ -58,7 +58,7 @@ Built using **Bhashini APIs**, NLP, and RAG (Retrieval-Augmented Generation), Ja
 ### 📽️ Introduction Video  
 [![Watch Introduction](https://img.youtube.com/vi/7-lWhmJZ8-Y/hqdefault.jpg)](https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6)
 
-▶️ [https://youtu.be/7-lWhmJZ8-Y](https://youtu.be/7-lWhmJZ8-Y)
+▶️ [https://youtu.be/7-lWhmJZ8-Y]([https://youtu.be/7-lWhmJZ8-Y](https://youtu.be/7qeuhPtNc9c?si=05YQ6Qvlax6ephT6))
 
 ### 🛠️ Working Prototype Demo  
 [![Watch Demo](https://img.youtube.com/vi/cmVgAenM6qA/hqdefault.jpg)](https://youtu.be/E6NS1wZqEPM?si=o5V6V6FK5M_BgqcY)
