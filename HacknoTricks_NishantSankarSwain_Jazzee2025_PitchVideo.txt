@@ -1,5 +1,18 @@
-🎥 JanAI Mitra – Bridging Governance & Citizens with Gen-AI  
-📌 Official Pitch Video for T$O Gen-AI Hackathon 2025 Submission  
-👨‍💻 Team: HacknoTricks | Team Leader: Nishant Sankar Swain  
+🎥 Jan-AI Mitra – Bridging Governance & Citizens with Gen-AI
+📌 Official Submission for T$O Gen-AI Hackathon 2025
+👨‍💻 Team: HacknoTricks | Team Leader: Nishant Sankar Swain
 
-🔗 YouTube Video Link: https://youtu.be/cmVgAenM6qA?si=KI5wBz8tLL_LbULx
+🌐 Deployed Platform:
+🖥️ https://jan-aimitra.netlify.app/digitaltech.html
+
+🔗 📂 Playlist:
+Jan-AI Mitra | GenAI-Powered Public Service Platform by Team HacknoTricks
+▶️ https://youtube.com/playlist?list=PL7bFEvZGTxb6o61wzhrCoMXdtCE7NboRA&si=hCAH1qkDsx20O2WA
+
+🎬 1. Introduction Video
+An overview of our GenAI solution to transform public service delivery across Education, Agriculture, Finance, and Healthcare.
+▶️ https://youtu.be/7qeuhPtNc9c?si=C2Pqq2A8bM2iU_cH
+
+🛠️ 2. Working Prototype Demo
+Live demo of our 3D model and voice-enabled AI assistant designed to deliver inclusive governance solutions using Generative AI.
+▶️ https://youtu.be/E6NS1wZqEPM?si=jqsO41VQrK-RmJgx
